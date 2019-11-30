@@ -1,6 +1,8 @@
 import string
 
-#files = ['ddhs.txt'] #, 'ddhf.txt' , 'ddhe.txt']
+#I DON'T KNOW HOW OPEN FILES IN DIFFERENT DIRECTORIES, THAT SHOULD BE MODIFIED TO THIS CODE
+
+#files = ['ddhs.txt'] #, 'ddhf.txt' , 'ddhe.txt']   #TO ALTERNATE BETWEEN 1 OR MORE FILES TO BE OPENED
 files = ['ddhs.txt', 'ddhf.txt' , 'ddhe.txt']
 
 hndnum = 0
